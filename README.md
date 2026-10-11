@@ -1,3 +1,6 @@
+
+
+
 # ⚡ Pure Hardware Infrared (IR) Sensor Module
 
 ## 📌 Project Overview
@@ -36,4 +39,5 @@ Instead of processing analog photodiode curves via firmware, this board implemen
 ## 🏭 Production & Bill of Materials (BOM)
 All components utilize highly available **0805 Surface Mount Device (SMD)** footprints to balance space savings with ease of manual prototyping/hand-soldering.
 
-- **Gerber Files:** Fully verified against standard design rule checks (DRC). Found in `/manufacturing_outputs`.
+- **Gerber Files:** Fully verified against standard design rule checks (DRC). The production-ready archive can be downloaded directly from the [Manufacturing Outputs Folder](./manufacturing_outputs).
+
